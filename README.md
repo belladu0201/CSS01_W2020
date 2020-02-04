@@ -50,6 +50,9 @@ Starting week 2 there will be a problem set that you will work on in section and
 ## In class participation and attendance
 Class participation and attendance is worth 10 points. To give you some flexibility, you will receive the full 10 points if you attend 80% of the lectures. Attendance will be monitored based on responses to questions using iClickers. 
 
+## Missed exams
+No makeup exams will be given unless (1) notice is given to the instructor by 5 p.m. the day before the exam, AND (2) extenuating circumstances prevail for which documentation is available, in the form of an airline ticket receipt, funeral notice, etc. (in the case of family emergencies) or a doctor’s note (not an appointment card) for serious illness/injury. This documentation must be presented to the instructor, not merely offered. All makeup exams must be taken within one week of the missed exam. 
+
 ## Letter grade in course
 Grades will be based on the percentage of points earned on the midterm, final project, attendance/participation, and problem sets. 
 
